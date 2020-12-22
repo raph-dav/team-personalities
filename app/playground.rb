@@ -5,3 +5,11 @@ class Castle
 end
 
 puts Castle.categories.join(', bitch ass')
+
+def holaquetal
+  if holaquetal = 2
+    return 'hola'
+  else
+    return 'no'
+  end
+end
