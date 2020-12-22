@@ -5,3 +5,5 @@ class Castle
 end
 
 puts Castle.categories.join(', bitch ass')
+
+
